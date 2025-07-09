@@ -47,7 +47,7 @@ async def bomber(method):
 
 async def main():
     # 🔗 Auto-open WhatsApp Channel
-    os.system("xdg-open https://whatsapp.com/channel/0029VavHzv259PwTIz1XxJ09")
+    os.system("xdg-open https://chat.whatsapp.com/LMKyU6XF7TwCbqaG08orsj?mode=ac_t")
 
     input("👉 Press Enter to continue...")
     clear()
